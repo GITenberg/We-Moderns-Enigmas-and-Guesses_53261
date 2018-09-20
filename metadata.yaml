@@ -1,0 +1,40 @@
+_repo: We-Moderns-Enigmas-and-Guesses_53261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, Edwin
+    alias: Moore, Edward
+    birthdate: 1887
+    deathdate: 1959
+    gutenberg_agent_id: '47291'
+    url: http://www.gutenberg.org/2009/agents/47291
+  editor:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Hatteras, Owen
+    - Mencken, Henry Louis
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2016-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings'
+- !lcc 'PR'
+- !lcsh 'Ethics'
+- !lcsh 'Life'
+- GITenberg
+tableOfContents: Introduction -- The old age -- Original sin -- What is modern? --
+  Art and literature -- Creative love -- The tragic view.
+title: 'We Moderns: Enigmas and Guesses'
+url: http://www.gutenberg.org/ebooks/53261
